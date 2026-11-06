@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "v1",
+  "description": "A Portfolio of S4G DeV",
+  "author": "S4G DeV",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host"
+  },
+  "dependencies": {
+    "vite": "^8.3.4"
+  }
+}
