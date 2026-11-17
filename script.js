@@ -46,3 +46,9 @@ console.log(year)
 
 const date = document.getElementById("date")
 date.textContent = year
+
+const classElement = document.getElementById("class");
+classElement.textContent = String(parseInt(year) - 2018) + "th";
+
+const ageElement = document.getElementById("age");
+ageElement.textContent = String(parseInt(year) - 2013) + " years";
