@@ -207,7 +207,7 @@ hr {
 .card, .hover {
   display: flex;
   width: 30%;
-  height: 19vw;
+  height: max-content;
   border: 1px solid #d9ad1e;
   box-shadow: 0 0 15px #d9ad1e;
   padding: 1.5rem;
